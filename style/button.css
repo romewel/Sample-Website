@@ -1,0 +1,176 @@
+.subscribe-button {
+    background-color: rgb(219, 3, 3);
+    color: White;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.subscribe-button:hover {
+    opacity: 0.8;
+}
+
+.subscribe-button:active {
+    opacity: 0.5;
+}
+
+.join-button {
+    background-color: white;
+    border-color: rgba(6, 6, 241, 0.566) ;
+    border-style: solid;
+    border-width: 1px;
+    color: blue;
+    height: 36px;
+    width: 62px;
+    border-radius: 2px;
+    cursor:pointer;
+    transition: background-color 1s,
+    color 1s;
+} 
+
+.join-button:hover {
+    background-color: rgba(6, 6, 241, 0.566) ;
+    color:white;
+}
+
+.join-button:active {
+    opacity: 0.7;
+}
+
+.Tweet-button {
+    background-color: rgb(17, 17, 251);
+    color: white;
+    border:none;
+    height: 36px;
+    width: 74px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+
+}
+
+.Tweet-button:hover {
+box-shadow: 5px 5px 10px rgba(0,0,0,0.15);  
+}
+
+.Request-button {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.cart-button {
+    background-color: yellow;
+    color:black;
+    border: none;
+    height: 30px;
+    width: 150;
+    border-radius: 15px;
+    cursor:pointer;
+    margin-left: 8px;
+}
+
+.sign-button {
+    background-color: green;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 80;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.get-button {
+    background-color: rgb(159, 112, 159);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.download-button {
+    background-color: white;
+    color: rgb(159, 112, 159);
+    border-color: rgb(47, 10, 47);
+    border-style: solid;
+    border-width: 1px;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.web-button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 190px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.save-button {
+    background-color: white;
+    color: rgb(40, 40, 240);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(10, 102, 194);
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.stocks {
+    color: green;
+}
+
+.add-button {
+    background-color: rgb(225,216,20);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.add-button:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15); 
+}
+
+.buy-button {
+    background-color: rgb(225,164,28);
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buy-button:hover {
+    opacity: 0.7;
+}
